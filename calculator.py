@@ -16,8 +16,7 @@ def square_root(a):
             raise ValueError("Input must be a non-negative number.")
         return math.sqrt(a)
     except ValueError as e:
-        print(e)
-        return None
+        raise
 
 def hypotenuse(a, b):
     return math.hypot(a, b)
