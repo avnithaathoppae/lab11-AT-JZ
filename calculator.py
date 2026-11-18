@@ -1,3 +1,7 @@
+# https://github.com/avnithaathoppae/lab11-AT-JZ
+# Partner 1: Avnithaa Thoppae
+# Partner 2: Jessica Zhang
+
 """
 calculator.py
 - Defines functions used to create a simple calculator
